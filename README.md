@@ -6,7 +6,7 @@ About Me ?
 🏫 I'm a Software Engineer at Virtusa having 2+ years of experience in Backend.
 ⚡️ My expertise primarily revolves around Java8, Spring Boot, Microservices, My SQL ,JavaScript.
 🔭 Worked with multiple organizations like (Github,Leetcode)
-♥️ I love to contribute to open-source projects.
+♥️ I love to contribute to open-source projects. Currently working for Light and Wonder
 
 [Email Me](mailto:ms994094@gmail.com)
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
